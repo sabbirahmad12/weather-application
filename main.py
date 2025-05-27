@@ -17,7 +17,7 @@ class WeatherApp:
         self.root.resizable(False, False)
         
         # API Configuration
-        self.API_KEY = "Your_API_Key"
+        self.API_KEY = "Your_API_Key_Here"
         self.BASE_URL = "http://api.openweathermap.org/data/2.5/weather"
         self.FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast"
         
