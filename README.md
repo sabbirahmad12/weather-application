@@ -155,6 +155,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 [![Forkers repo](https://reporoster.com/forks/sabbirahmad12/weather-application)](https://github.com/sabbirahmad12/weather-application/network/members)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sabbirahmad12/weather-application&type=Timeline)](https://www.star-history.com/#sabbirahmad12/weather-application&Timeline)
+
 ## Support Me ❤️
 
 <div align="center">
