@@ -149,11 +149,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🌟 Star and Fork 🚀
 
 ### Thanks For Star🙏👨‍💻
-[![Stargazers repo](https://reporoster.com/stars/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/)
+[![Stargazers repo](https://reporoster.com/stars/sabbirahmad12/weather-application)](https://github.com/sabbirahmad12/weather-application/)
 
 ### Thanks For Fork 🙏👨‍💻
 
-[![Forkers repo](https://reporoster.com/forks/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/network/members)
+[![Forkers repo](https://reporoster.com/forks/sabbirahmad12/weather-application)](https://github.com/sabbirahmad12/weather-application/network/members)
 
 ## Support Me ❤️
 
