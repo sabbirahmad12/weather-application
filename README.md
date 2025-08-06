@@ -146,6 +146,24 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🌟 Star and Fork 🚀
+
+### Thanks For Star🙏👨‍💻
+[![Stargazers repo](https://reporoster.com/stars/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/)
+
+### Thanks For Fork 🙏👨‍💻
+
+[![Forkers repo](https://reporoster.com/forks/sabbirahmad12/to-do-list-application)](https://github.com/sabbirahmad12/to-do-list-application/network/members)
+
+## Support Me ❤️
+
+<div align="center">
+  
+  Thanks for visiting!
+  
+  [![Buy Me a Coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=☕&slug=mdsabbirahmad42&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/mdsabbirahmad42)
+  
+</div>
 
 ---
 
